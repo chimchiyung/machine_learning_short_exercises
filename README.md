@@ -1,2 +1,1 @@
-# machine_learning_short_exercises
-Short exercise notebooks on machine learning
+These are short notebooks for various machine learning exercises.
