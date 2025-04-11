@@ -9,3 +9,7 @@ CNN-RNN-VideoClassfication.ipynb: This is a CNN-RNN experiment over 10 classes f
 CNN-Transformer-VideoClassfication.ipynb: This is a video classification experiment over 10 classes from UCF video dataset, using PyTorch. Video frames are encoded by a pretrained EfficientNet-B3 CNN, and then fed into a Transformer encoder for classification.
 
 AbaloneRingRegression.ipynb: This is a regression exercise over the abalone ring numbers of a datasets given various length and weight features.
+
+VisualAutogressiveModeling.pdf: This is a short-presentation on reading paper about VAR Modeling for a private journal club.
+
+
