@@ -12,4 +12,6 @@ AbaloneRingRegression.ipynb: This is a regression exercise over the abalone ring
 
 VisualAutogressiveModeling.pdf: This is a short-presentation on reading paper about VAR Modeling for a private journal club.
 
+byu_flagella_motor.ipynb: This is a notebook of solving the "BYU Flagella motor" in Kaggle using Faster RCNN in Torchvision.
+
 
